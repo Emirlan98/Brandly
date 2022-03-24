@@ -1,0 +1,18 @@
+@import "vars";
+
+.footer{
+	display: block;
+	min-height: 157px;
+	// display: flex;
+	// align-items: center;
+	background-image: url("../images/bg-footer.jpg");
+	background-repeat: no-repeat;
+	background-position:center ;
+	background-size: cover;
+	color: $lidht;
+	p{
+		margin: 0;
+		padding: 67px 0;
+		
+	}
+}
